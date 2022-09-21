@@ -4,3 +4,5 @@ Examen Intro Informatica
 Leandro Mariño
 
 Jhonatan Obando
+
+Eliana Osorio 
